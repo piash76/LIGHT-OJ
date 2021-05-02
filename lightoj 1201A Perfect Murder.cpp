@@ -1,4 +1,9 @@
 
+
+///maximum independent set =total vertices - max flow
+///V * E^2
+
+
 ///Bismillahir Rahmanir Rahim
 #include<bits/stdc++.h>
 
